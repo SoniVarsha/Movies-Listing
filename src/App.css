@@ -1,0 +1,26 @@
+
+
+body {
+  background-color: #1e2931;
+  color: #fff;
+  line-height: 1.5;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.input{
+  margin: 3% 8%;
+  width: 70vw;
+  height: 2vw;
+  text-align: center;
+  font-size: large;
+}
+
+.cardGrid{
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
